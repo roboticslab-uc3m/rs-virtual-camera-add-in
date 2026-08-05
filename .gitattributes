@@ -1,0 +1,7 @@
+* text=auto
+*.md text
+*.sln text eol=crlf
+*.cs text eol=crlf
+*.csproj text eol=crlf
+*.rsaddin text eol=crlf
+*.png binary
